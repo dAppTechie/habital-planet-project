@@ -1,0 +1,23 @@
+{
+  "name": "habital-planet-project",
+  "version": "1.0.0",
+  "description": "Node parsing project for finding habital planets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imchad-me/habital-planet-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imchad-me/habital-planet-project/issues"
+  },
+  "homepage": "https://github.com/imchad-me/habital-planet-project#readme",
+  "dependencies": {
+    "csv-parse": "^4.16.0"
+  }
+}
